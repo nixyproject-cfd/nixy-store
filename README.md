@@ -1,1 +1,0 @@
-# nixy-store
